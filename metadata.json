@@ -1,0 +1,9 @@
+{
+  "name": "Remix: Cxi•Cinema - Premium SMK Cinema",
+  "description": "A premium cinema ticket booking application with a sleek bottle green and black theme, featuring interactive seat selection, payment simulation, and ticket generation with QR codes.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "C7": [],
+  "aq": []
+}
